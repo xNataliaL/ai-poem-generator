@@ -1,0 +1,15 @@
+# Environment variables
+.env
+
+# Python virtual environment
+ai-env/
+venv/
+env/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Data files
+*.txt
